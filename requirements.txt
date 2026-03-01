@@ -1,0 +1,5 @@
+streamlit
+pytubefix
+imageio-ffmpeg
+groq
+python-dotenv
