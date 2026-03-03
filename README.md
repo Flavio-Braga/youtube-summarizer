@@ -59,7 +59,7 @@ GROQ_API_KEY=gsk_sua_chave_aqui
 
 **Exemplo completo:**
 ```
-GROQ_API_KEY=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
+GROQ_API_KEY=insira_sua_API_KEY_aqui
 ```
 
 ### Passo 4: Instale as Dependências
